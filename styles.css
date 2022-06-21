@@ -1,0 +1,27 @@
+@font-face {
+    font-family:fantasy;
+    src: url(one-day.otf);
+    
+}
+
+.titulo {
+    
+    font-family: california;
+    text-align:center;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+.titulo1{
+    align-items: center;
+    background-color: aqua;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
