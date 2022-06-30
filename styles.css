@@ -19,9 +19,10 @@ ul{
 }
 
 .titulo1{
-    align-items: center;
-    background-color: aqua;
-    padding-left: 2rem;
+   margin-top: 1px;
+    background-color: rgb(255, 0, 0);
+    padding-left: 6rem;
     padding-right: 2rem;
 
 }
+
