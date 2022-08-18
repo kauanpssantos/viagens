@@ -30,6 +30,10 @@ ul{
  
 }
 
+.iconebr{
+    padding-left:550px;
+}
+
 .icon{
     height: 100px;
     margin-left: 610px;
@@ -44,16 +48,8 @@ h3{
     color: aliceblue;
 }
 
-.container{
-    display: flex;
-    align-items: center;
-    margin-left: 550px;
-}
 
-.test{
-    padding-right: 5px;
-    
-}
+
 
 
 
