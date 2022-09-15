@@ -1,0 +1,37 @@
+body{
+    background-image: url(fundo3.jpg);
+}
+.cabeçario{
+    background-color: red;
+    text-align: center;
+    
+}
+.logo{
+    height: 70px;
+    
+}
+.iconebr{
+    padding-left:550px;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+}
+a{
+    color: aliceblue;
+}
+
+ul{
+    text-align: center;
+   margin: 100px;
+}
+.cataratas{
+    margin: 100px;
+}
+.disney{
+    margin: 100px;
+}
+.parque{
+    margin: 100px;
+}
