@@ -3,15 +3,26 @@ body{
 }
 .cabeçario{
     background-color: red;
+    
+}
+
+.titulo{
     text-align: center;
-    
+    font-size: 60px;
 }
+
+
 .logo{
-    height: 70px;
+padding-left: 610px;
     
 }
-.iconebr{
-    padding-left:550px;
+.iconefranca{
+margin-left: 1260px;
+}
+
+.iconebr{   
+margin-left:1260px;
+    
 }
 
 
